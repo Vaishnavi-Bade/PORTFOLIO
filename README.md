@@ -1,7 +1,7 @@
 🌐 Vaishnavi's Portfolio Website
 A modern and responsive personal portfolio website built using HTML, CSS, and JavaScript, showcasing my skills, projects, and creativity in web development.
 🚀 Live Demo
-🔗 https://202501110066.github.io/PORTFOLIO/
+🔗 https://Vaishnavi-Bade.github.io/PORTFOLIO/
 📌 About the Project
 This portfolio represents my journey as a First Year Computer Science student passionate about technology and programming.
 It highlights my technical skills, academic projects, and my interest in building interactive and user-friendly applications.
